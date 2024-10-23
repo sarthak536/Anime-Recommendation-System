@@ -1,0 +1,9 @@
+Required Libraries are---
+
+1) pandas
+2) sklearn.modelselection
+3) matplotlib.pyplot
+4) numpy
+5) streamlit
+6) pickle
+7) requests
